@@ -1,5 +1,15 @@
-Week1
-------
+
+Tensorflow Datasets
+===================
+https://www.tensorflow.org/datasets/catalog/overview
+
+Sarcasm dataset
+===============
 wget --no-check-certificate https://storage.googleapis.com/laurencemoroney-blog.appspot.com/sarcasm.json -O /tmp/sarcasm.json
 
-Exercise1: wget https://storage.googleapis.com/laurencemoroney-blog.appspot.com/bbc-text.csv
+bbc news dataset
+================
+wget https://storage.googleapis.com/laurencemoroney-blog.appspot.com/bbc-text.csv
+
+IMDB Movie Review dataset
+=========================
